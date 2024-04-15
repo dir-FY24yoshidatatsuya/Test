@@ -17,3 +17,5 @@ public class CalculatorService {
         return "Result: " + result;
     }
 }
+
+//フェッチのテスト（残ってたら失敗）
